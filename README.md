@@ -19,9 +19,9 @@ This jupyter notebook takes in a csv file and performs multiple different data a
 
 ## Libraries
 - pandas to read the csv file
-- matpoltlib to create the graphs
-- seaborn to create the lineplot
-- geopandas for creating the world map using geojson
-- scipy for the T-test
+- matplotlib to create the graphs
+- seaborn to create the lineplots
+- geopandas for creating the world map using a geojson
+- scipy for the T-test analysis
 - statsmodels for the statistical analysis
-- os to ensure that the user input csv file exists
+- os to ensure that the inputted csv file from the user exists
